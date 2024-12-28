@@ -1,13 +1,4 @@
 # Exporter
-Contributors: khoirulaksara
-Donate link: https://paypal.me/gonzsky
-Tags: import, export, cpt, custom post type
-Requires at least: 4.7
-Tested up to: 6.7.1
-Stable tag: 1.0
-Requires PHP: 7.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A plugin to dynamically export and import Posts, Pages, Custom Post Types (CPT) and Custom Fields in CSV format.
 
